@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Title - Login{% endblock %}
+{% block description %}
+Description - LogIn <br/> Welcome!
+
+{% if user %}
+{{ "Dear. " + user }}! 
+{% elif not user %}
+"Dear. Anonymous! "
+{% else %}
+"Hacker"
+{%endif %}
+
+<br/>Have a nice day!
+{% endblock %}
