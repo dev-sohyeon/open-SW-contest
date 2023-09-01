@@ -5,6 +5,9 @@
 > ART CONNECT는 사람들이 자신의 예술적 재능과 기술을 활용하여 <br/>
 > 다른 사람들에게 서비스를 제공하고 소비할 수 있는 온라인 플랫폼입니다.
 
+</br>
+</br>
+
 ## 프로젝트 소개
 
 ### 1. 개발 배경
@@ -30,7 +33,6 @@
 
 </br>
 </br>
-</br>
 
 ## 개발 환경과 개발 언어
 ### IDE
@@ -48,3 +50,9 @@
 </br> ![image](https://i.namu.wiki/i/KhxBbdiVf6FMzjWbuyfCc2m9IrGpKxkVm7MyYFmxspD11xFmaVFJ5wnLOxtFQpidZxsapzlI1BoogjJatidZmKkR1s7yl6O-r7tYxr6F8KnePQ_Avt6LAN-BrahZ7XXoL1972upsAw3UHAaWXkXkEA.svg)
 - JavaScript 
 </br> ![image](https://i.namu.wiki/i/6KMOO6jz-udzS2Bb25QvRO_Z-FxKoljeRiO7xxrZvE0qbaWoHpRKYezKbxK8wDqAE-oLglICelyq2WGPahDhxlrYIsqgShE7MqnCvD7w_LVGSfUaYlXNoQ9ZSaUhrv-adZHja1kkQniWBtVIvzz0iw.svg)
+
+### Management Tool
+- GitHub
+ </br> ![image](https://i.namu.wiki/i/40hE-9plJvf3NgMboaeyhpmbN7_Rw4l_IQgnQpgWXjWQnmapiQy14OqVRXkLE1eRvnov9ZJzKtavpU2k6DW3EA.svg)
+- Notion
+</br> ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/150px-Notion-logo.svg.png)
