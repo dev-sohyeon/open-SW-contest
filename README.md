@@ -8,7 +8,7 @@
 </br>
 </br>
 
-## 프로젝트 소개
+## ✨ 프로젝트 소개
 
 ### 1. 개발 배경
 
@@ -34,25 +34,30 @@
 </br>
 </br>
 
-## 개발 환경과 개발 언어
-### IDE
+## 💻 개발 환경과 개발 언어
+### [IDE]
 - Visual Studio Code
- </br> ![image](https://i.namu.wiki/i/tKKcG8QjGd88TE0Gy6O_F9_9CE8JhE6sfG55HvCfFq88-kJgfK6L_Lng0muXjRjBB8KXmi50bxUr-RJasObCr4HehwaXZrZ6bxGTYnMaYcHbair_wHgBegZuBKfN-9SQjYaSSHIS79vZOalfRfuuzQ.svg)
 
-### Database
-- MySQL
-</br> ![image](https://i.namu.wiki/i/Ewb3lV-c2bbkDUTGRtrG3lDIptN5DusVmjj_gN-hKafEgs8zahttiVJgdMu4KS1T14X2-sFF34ZkwGAyE7XccThkJCSTNMOnAisTD72Kg98PDjGBv3BKtBR9vzAvuauWBNqEiBp3WS33TIACxG6EfQ.svg)
-
-### Language
+### [Language]
 - HTML
-</br> ![image](https://i.namu.wiki/i/0Ujm_BJy5o5u7nw1UIqDWqMfAcNWvjU6-Yh-eHVap4CqwPpgixdsDMu7_5BwQkm7k1EtJGV8E4ARn1vr3ssn_37NnET-BKd93YL_wMK46z-aBVihXk2dszzjr6RrNWeTNyMQThclY-_Y2qcEbjFUhQ.svg)
 - CSS
-</br> ![image](https://i.namu.wiki/i/KhxBbdiVf6FMzjWbuyfCc2m9IrGpKxkVm7MyYFmxspD11xFmaVFJ5wnLOxtFQpidZxsapzlI1BoogjJatidZmKkR1s7yl6O-r7tYxr6F8KnePQ_Avt6LAN-BrahZ7XXoL1972upsAw3UHAaWXkXkEA.svg)
 - JavaScript 
-</br> ![image](https://i.namu.wiki/i/6KMOO6jz-udzS2Bb25QvRO_Z-FxKoljeRiO7xxrZvE0qbaWoHpRKYezKbxK8wDqAE-oLglICelyq2WGPahDhxlrYIsqgShE7MqnCvD7w_LVGSfUaYlXNoQ9ZSaUhrv-adZHja1kkQniWBtVIvzz0iw.svg)
 
-### Management Tool
+### [Management Tool]
 - GitHub
- </br> ![image](https://i.namu.wiki/i/40hE-9plJvf3NgMboaeyhpmbN7_Rw4l_IQgnQpgWXjWQnmapiQy14OqVRXkLE1eRvnov9ZJzKtavpU2k6DW3EA.svg)
 - Notion
-</br> ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/150px-Notion-logo.svg.png)
+
+</br>
+</br>
+
+## ⚙ 시스템 구성 및 아키텍처
+### [Framework]
+- Node.js
+- express
+
+### [Database]
+- MySQL
+- Flask
+
+### [Server]
+- express
