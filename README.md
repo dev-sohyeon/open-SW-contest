@@ -11,6 +11,10 @@
 
 ## ✨ 프로젝트 
 
+<div align="center">
+  <img src="https://github.com/dev-sohyeon/open-SW-contest/blob/7e95ad094886bfa5879bea0c437ba82b53f61f4a/%EB%A1%9C%EA%B3%A0%20%EB%94%94%EC%9E%90%EC%9D%B8/%EB%A1%9C%EA%B3%A0_%EB%91%A5%EA%B7%BCver.png" alt="로고(둥근ver)" width="200">
+</div>
+
 &nbsp;&nbsp; "Art Connect(아트 커넥트)"는 사람들이 자신의 예술적 재능과 기술을 활용하여 다른 사람들에게 서비스를 제공하고 소비할 수 있는 온라인 플랫폼으로, 그림, 음원 믹싱, 영상 편집 등의 다양한 예술적 재능과 기술을 가진 사람들과 그들의 재능을 필요로 하는 구매자들을 연결해주는 역할을 합니다.
 
 &nbsp;&nbsp; Art Connect에서는 예술적 재능과 기술을 가진 사람이라면 누구든 자신을 예술적 서비스 제공자로 등록하고 자신만의 작품, 스킬, 포트폴리오 등을 공유할 수 있습니다. 예시로, 화가들은 자신의 그림을 전시하고 판매할 수 있고, 음악 프로듀서들은 자신의 음악을 제작하여 판매할 수 있습니다.
@@ -18,8 +22,6 @@
 &nbsp;&nbsp; 그러는 동시에, 구매자들은 본인의 상황에 딱 맞는 예술 서비스를 탐색하고 주문할 수 있습니다. 예를 들어, 적은 예산이나 촉박한 마감기한이라는 열악한 상황에서도 적절한 재능 제공자를 찾아 맞춤 주문을 할 수 있습니다.
 
 &nbsp;&nbsp; 이렇게 우리는 Art Connect를 통해 예술적 재능과 기술을 가진 개인들을 위한 새로운 온라인 생태계를 구축하고, 예술과 문화의 발전을 촉진하며, 사회적 연결과 경제적 성장을 도모할 수 있습니다.
-
-<img src="https://github.com/dev-sohyeon/open-SW-contest/blob/7e95ad094886bfa5879bea0c437ba82b53f61f4a/%EB%A1%9C%EA%B3%A0%20%EB%94%94%EC%9E%90%EC%9D%B8/%EB%A1%9C%EA%B3%A0_%EB%91%A5%EA%B7%BCver.png" alt="로고(둥근ver)" width="200">
 
 </br>
 </br>
