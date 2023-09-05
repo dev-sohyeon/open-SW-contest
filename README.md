@@ -65,14 +65,14 @@
 
 ## ⚙ 시스템 구성 및 아키텍처
 ### [Framework]
-- Flaks
+- Flask
 
 ### [Database]
 - MySQL
 - Flask
 
 ### [Server]
-- ?
+- Flask
 
 </br>
 </br>
