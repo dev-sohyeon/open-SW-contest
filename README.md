@@ -65,15 +65,14 @@
 
 ## ⚙ 시스템 구성 및 아키텍처
 ### [Framework]
-- Node.js
-- express
+- Flaks
 
 ### [Database]
 - MySQL
 - Flask
 
 ### [Server]
-- express
+- ?
 
 </br>
 </br>
