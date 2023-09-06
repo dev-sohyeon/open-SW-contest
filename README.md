@@ -52,6 +52,8 @@
 - Visual Studio Code
 
 ### [Language]
+- my SQL
+- Python
 - HTML
 - CSS
 - JavaScript 
@@ -59,6 +61,7 @@
 ### [Management Tool]
 - GitHub
 - Notion
+- Discord
 
 </br>
 </br>
@@ -69,7 +72,7 @@
 
 ### [Database]
 - MySQL
-- Flask
+- MongoDB
 
 ### [Server]
 - Flask
