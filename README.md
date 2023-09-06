@@ -52,6 +52,8 @@
 - Visual Studio Code
 
 ### [Language]
+- my SQL
+- Python
 - HTML
 - CSS
 - JavaScript 
@@ -59,21 +61,21 @@
 ### [Management Tool]
 - GitHub
 - Notion
+- Discord
 
 </br>
 </br>
 
 ## ⚙ 시스템 구성 및 아키텍처
 ### [Framework]
-- Node.js
-- express
+- Flask
 
 ### [Database]
 - MySQL
-- Flask
+- MongoDB
 
 ### [Server]
-- express
+- Flask
 
 </br>
 </br>
