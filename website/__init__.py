@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from os import path
+from flask_login import LoginManager
 
 db = SQLAlchemy()
 DB_NAME = "database.db"
@@ -22,6 +23,15 @@ def create_app():
     # DB에 사용할 모델 불러오기
     from .models import User, Note  # from .models import *
     create_database(app)
+    
+    # flask-login 적용
+    login_manager = LoginManager()
+    login_manager.login_view = 'auth.sign_in'
+    login_manager.init_app(app)
+
+    @login_manager.user_loader
+    def load_user(id):
+        return User.query.get(id)  # primary_key
 
     return app
 
@@ -30,5 +40,6 @@ def create_app():
 def create_database(app):
     # db파일이 확인안될 때만 생성
     if not path.exists('website/' + DB_NAME):
-        db.create_all(app=app)
+        with app.app_context():
+            db.create_all()
         print('>>> Create DB')
